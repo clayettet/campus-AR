@@ -8,7 +8,7 @@ Created in 2016-2017 ; no code to provide but you can see a demo below.
 [![YouTube Video for first version](https://img.youtube.com/vi/IOlbKvy35U4/0.jpg)](https://www.youtube.com/watch?v=IOlbKvy35U4)
 
 ## Final version
-First version features not included
+Some of the first version features are not included in the video.
 
 (clic on image below to be redirected on YouTube)
 
